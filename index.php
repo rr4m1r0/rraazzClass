@@ -5,7 +5,7 @@
 <div class="contenedor">
 <header>
 <?php
-    require 'view/rraazzTheme.php';
+    require 'rraazzTheme.php';
 ?>
 </header>
 </div>
